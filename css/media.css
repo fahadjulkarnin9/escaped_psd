@@ -1,0 +1,192 @@
+@media (max-width: 320px){
+.banner_text {
+padding-top: 100px !important;
+}
+
+.banner_text h5 {
+
+font-size: 18px !important;
+}
+
+.banner_text h1 {
+
+font-size: 36px !important;
+}
+.web_development_text h1.web_text{
+font-size: 39px !important;
+text-align: center !important}
+.development {
+margin-top: 50px !important;
+}
+.brand {
+
+padding-top: 50px !important;}
+.service_img {
+
+padding: 5px 0px !important;
+}
+
+.service_icon {
+font-size: 29px !important;
+}
+.service_text h1 {
+
+font-size: 19px !important;
+
+}
+.service {
+margin: 50px 0px !important;
+}
+.comment_image {
+padding-top:20px;
+}
+.comment_head h1.web_text {
+font-size: 38px;
+}
+.comment_head p {
+font-size: 16px !important;
+}
+.comment_head {
+
+margin-bottom: 10px !important;
+}
+.comment {
+min-height: 660px !important;
+
+
+}
+.team_head h1.web_text {
+font-size: 51px !important}
+
+.member_address p{
+font-size: 12px !important;
+}
+}
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 321px) and (max-width: 575.98px) {
+.banner_text {
+padding-top: 100px !important;
+}
+
+.banner_text h5 {
+
+font-size: 24px !important;
+}
+
+.banner_text h1 {
+
+font-size: 43px !important;
+}
+.web_development_text h1.web_text{
+font-size: 46px !important;
+text-align: center !important}
+.development {
+margin-top: 50px !important;
+}
+.brand {
+
+padding-top: 50px !important;
+
+}
+.service_img {
+
+padding: 9px 0px !important;
+}
+.service_icon {
+font-size: 29px !important;
+}
+.service_text h1 {
+
+font-size: 19px !important;
+
+}
+.service {
+margin: 50px 0px !important;
+}
+.comment_image {
+padding-top:20px;
+}
+.comment h1.web_text {
+font-size: 38px;
+}
+.comment_head p {
+font-size: 19px !important;
+}
+.comment_head {
+
+margin-bottom: 20px !important;
+}
+.comment {
+min-height: 660px !important;
+
+}
+.team_head h1.web_text {
+font-size: 51px !important}
+.member_address p{
+font-size: 12px !important;
+}
+.copyright {
+
+font-size: 14px;
+
+}
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.banner_text h1 {
+
+font-size: 60px !important;
+}
+.web_development_text h1.web_text{
+font-size: 69px !important;
+text-align: center !important}
+.comment_image {
+padding-top:20px;
+}
+.comment {
+min-height: 660px !important;
+
+
+}
+.member_address p{
+font-size: 14px !important;
+}
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+.web_development_text h1.web_text {
+
+font-size: 44px !important;}
+.service_img {
+
+padding: 7px 0px !important;
+}
+
+.service_img,.service_text {
+margin-top: 40px;
+}
+.service_icon {
+font-size: 29px !important;
+}
+.service_text h1 {
+
+font-size: 19px !important;
+
+}
+.comment h1.web_text {
+font-size: 56px;
+}
+.comment {
+min-height: 660px !important;
+
+
+}
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+}

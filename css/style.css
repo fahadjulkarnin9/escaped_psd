@@ -1,0 +1,282 @@
+/*font start here*/
+@font-face {
+font-family: 'BrandonGrotesque';
+src: url(../fonts/Brandon_med.otf);
+font-style: normal;
+font-weight: 200;
+}
+@font-face {
+font-family: 'BrandonGrotesque';
+src: url(../fonts/Brandon_reg);
+font-style: normal;
+font-weight: 400;
+}
+@font-face {
+font-family: 'BrandonGrotesque';
+src: url(../fonts/Brandon_bld.otf);
+font-style: normal;
+font-weight: 700;
+}
+@font-face {
+font-family: 'BrandonGrotesque';
+src: url(../fonts/Brandon_light.otf);
+font-style: normal;
+font-weight: 100;
+}
+@font-face {
+font-family: 'Cubano';
+src: url(../fonts/Cubano-Regular.otf);
+font-style: normal;
+font-weight: 400;
+}
+/*font end here*/
+/*banner start here*/
+.banner{
+background-image: url(../img/bg.jpg);
+background-repeat:no-repeat;
+background-size: cover;
+position: relative;
+min-height: 650px;
+}
+.custom-nav{}
+.custom-nav ul li a{
+font-family: 'BrandonGrotesque' !important;
+color: white !important;
+font-weight: 200;
+font-size: 18px;
+padding:0px 20px!important;
+}
+.custom-nav ul li a:hover{
+color: grey!important;
+transition: .5s;
+}
+.banner_text {
+padding-top: 150px;
+color: white;
+font-family: 'BrandonGrotesque';
+}
+.banner_text h5 {
+font-weight: 100;
+font-size: 32px;
+}
+.banner_text h1 {
+font-weight: 700;
+font-size: 66px;
+}
+.custom-btn{
+width: 150px;
+height: 50px;
+color: white;
+font-family: 'BrandonGrotesque';
+font-weight: bold;
+font-size: 15px;
+border: 1px solid white;
+margin-top: 50px;
+}
+.custom-btn:hover{
+background-color: white;
+color: black;
+transition: 0.5s;
+}
+.development {
+margin-top: 100px;
+font-family:'BrandonGrotesque';
+}
+h1.web_text {
+color: #222222;
+font-size: 60px;
+font-weight: 100;
+}
+span.web_span {
+font-weight: 700 !important;
+}
+.web_development_text p {
+padding-top: 20px;
+text-align: justify;
+font-weight: 400;
+font-size: 18px;
+color: #9a9a9a;
+}
+.web_development_img {
+text-align: right;
+}
+.brand {
+background-color: #fafafa;
+padding-top: 100px;
+padding-bottom: 50px;
+font-family:'BrandonGrotesque';
+}
+.web_development_text h1 {
+color: #222222;
+font-size: 60px;
+font-weight: 100;
+}
+.web_development_text span {
+font-weight: 700 !important;
+}
+.web_development_text p {
+padding-top: 20px;
+text-align: justify;
+font-weight: 400;
+font-size: 18px;
+color: #9a9a9a;
+}
+.web_development_img {
+text-align: right;
+}
+.service {
+margin: 100px 0px;
+}
+.service_img {
+background-color: #222222;
+color: white;
+border-radius: 50%;
+padding: 12px 0px;
+}
+.service_img,.service_text {
+margin-top: 40px;
+}
+.service_icon {
+font-size: 50px;
+}
+.service_text h1 {
+font-family:'BrandonGrotesque';
+font-weight: 400;
+font-size: 22px;
+text-transform: capitalize;
+color: #222222;
+}
+.service_text p {
+font-family:'BrandonGrotesque';
+font-weight: 400;
+font-size: 18px;
+color: #9b9b9b;
+text-align:justify;
+}
+.comment {
+background-color: #fafafa;
+min-height: 850px;
+
+}
+.comment_img {
+border-radius: 50%;
+}
+.comment_text {
+margin-top: 20px;
+}
+.comment_text p {
+font-family:'BrandonGrotesque';
+font-weight: 400;
+font-size: 18px;
+color: #777777;
+text-align:justify;
+}
+h5.client_name {
+font-family:'BrandonGrotesque';
+font-weight: 400;
+font-size: 18px;
+color: #7690c5;
+text-align:justify;
+max-width: 400px;
+}
+.single_comment {
+padding-top: 40px;
+}
+.comment_head {
+margin-top: 40px;
+margin-bottom: 50px;
+}
+.comment_head p {
+font-family:'BrandonGrotesque';
+font-weight: 400;
+font-size: 22px;
+color: #777777;
+}
+.company{
+margin: 40px 0;
+}
+.team {
+background-color: #222222;
+color: white;
+font-family:'BrandonGrotesque';
+}
+.team .team_head h1.web_text{
+color: white !important;
+}
+.team_head {
+padding-top: 50px;
+}
+.team_head p {
+color: #9a9a9a;
+padding-bottom: 50px;
+}
+.member_name {
+padding-top: 20px;
+}
+.member_name h6 {
+font-weight: 700;
+font-size: 22px;
+}
+.member_position h5 {
+font-weight: 100;
+}
+.member_info {
+padding-top: 5px;
+}
+.member_icon {
+margin-right: 10px;
+background-color: white;
+font-size: 23px;
+border-radius: 50%;
+padding: 12px 16px;
+color: #222222;
+}
+.member_icon:hover {
+background-color: #9a9a9a !important;
+color: white;
+transition: 0.45s;
+}
+.member_info {
+margin-bottom: 20px;
+}
+.member_text {
+margin: 60px 0px;
+}
+.contact{
+background-color: #7690c5;
+color: white;
+font-family:'BrandonGrotesque';
+padding-top: 100px;
+}
+.member_contact_head h1.web_text {
+color: white;
+}
+.member_contact_head p {
+font-weight: 300;
+font-size: 16px;
+padding: 20px 0px;
+}
+.member_contact_icon {
+font-size: 30px;
+}
+.member_address {
+padding-top: 5px;
+font-weight: 100px;
+font-size: 18px;
+}
+.contact_form {
+padding-top: 10px;
+color: #bbbbbb;
+}
+.custom_contact_form {
+color: #bbbbbb;
+font-weight: 100px;
+font-size: 18px;
+}
+.copyright {
+border-top: 1px solid #87a0d2;
+padding-top: 20px;
+margin: 50px 0px;
+font-size: 16px;
+font-weight: 400;
+}
